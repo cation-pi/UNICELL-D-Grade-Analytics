@@ -1,2 +1,2 @@
-# UNICELL-D-Grade-Analytics
-A data analytics project to evaluate and benchmark different grades of Azodicarbonamide (ADCA) from PT Dongjin Indonesia, commercially known as UNICELL-D. The scripts automate the entire analytical pipeline from data integration  to final reporting.
+# UNICELL-D Grade Analytics
+A data analytics project to evaluate and benchmark different grades of Azodicarbonamide (ADCA) from PT Dongjin Indonesia, commercially known as UNICELL-D. The scripts automate the entire analytical pipeline from data integration  to final reporting. Key analyses include a comparative study using non-parametric statistics (Kruskal-Wallis test), an assessment of within-lot consistency (Kruskal-Wallis test and Mann-Whitney U test), and multivariate pattern recognition using Hierarchical Clustering and Principal Component Analysis (PCA)  to explore the underlying data structure and group similar products.
