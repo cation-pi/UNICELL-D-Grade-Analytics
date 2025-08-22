@@ -1,4 +1,4 @@
-% It evaluates product performance against specifications, and generates a ranked report of the grades based on their consistency metrics.
+% It evaluates product performance against specifications.
 
 fileData = 'StatDeskriptif_Agregat.xlsx';
 fileSpec = 'Spesifikasi.xlsx';
