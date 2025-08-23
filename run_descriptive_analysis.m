@@ -1,4 +1,6 @@
-% It generates a ranked report of the grades based on their consistency metrics.
+% Performs descriptive statistical analysis and visualization. It generates comparative box plots from non-aggregate data to visualize variability and internal consistency. 
+% Concurrently, it calculates descriptive statistics (mean, median, IQR) from aggregate data.
+% It also generates a ranked report of the grades based on their consistency metrics.
 
 fileFM = 'masterData_FM.xlsx'; 
 fileKW = 'masterData_KW.xlsx'; 
